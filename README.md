@@ -10,7 +10,6 @@
         body {
             font-family: sans-serif;
             color: black;
-            /* A sandy, Egyptian-inspired gold/beige background */
             background-color: #e3c48d; 
             margin: 0;
             padding: 20px;
@@ -20,7 +19,7 @@
         .container {
             max-width: 800px;
             margin: 0 auto;
-            background-color: rgba(255, 255, 255, 0.3); /* Slight overlay for readability */
+            background-color: rgba(255, 255, 255, 0.3);
             padding: 40px;
             border-radius: 8px;
             border: 2px solid #b08d57;
@@ -45,7 +44,7 @@
             border: 5px solid #fff;
             box-shadow: 0 4px 8px rgba(0,0,0,0.2);
             margin: 10px;
-            width: 300px; /* Consistent sizing */
+            width: 300px;
         }
 
         section {
@@ -62,11 +61,7 @@
 
         <div class="image-container">
             <img src="https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&q=80&w=400" alt="The Great Pyramids of Giza">
-            <img 
-<img src="https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&q=80&w=1000" 
-  alt="An elegant cat reminiscent of Egyptian Bastet" 
-  style="max-width: 100%; height: auto; border-radius: 8px;" />
-
+            <img src="https://images.unsplash.com/photo-1516280030429-27679b3ac95a?auto=format&fit=crop&q=80&w=400" alt="Egyptian Mau Cat">
         </div>
 
         <section>
@@ -87,6 +82,8 @@
 
 </body>
 </html>
+
+
 
   
    
