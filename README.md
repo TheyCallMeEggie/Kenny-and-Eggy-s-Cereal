@@ -61,7 +61,7 @@
 
         <div class="image-container">
             <img src="https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&q=80&w=400" alt="The Great Pyramids of Giza">
-       <html>    <img src="https://images.unsplash.com/photo-1516280030429-27679b3ac95a?auto=format&fit=crop&q=80&w=400" alt="Egyptian Mau Cat"> </html>
+          <img src="https://images.unsplash.com/photo-1516280030429-27679b3ac95a?auto=format&fit=crop&q=80&w=400" alt="Egyptian Mau Cat"> 
         </div>
 
         <section>
