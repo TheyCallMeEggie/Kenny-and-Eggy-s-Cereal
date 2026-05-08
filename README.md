@@ -62,6 +62,10 @@
 
         <div class="image-container">
             <img src="https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&q=80&w=400" alt="The Great Pyramids of Giza">
+            <img 
+<img src="https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&q=80&w=1000" 
+  alt="An elegant cat reminiscent of Egyptian Bastet" 
+  style="max-width: 100%; height: auto; border-radius: 8px;" />
 
         </div>
 
