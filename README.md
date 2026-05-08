@@ -62,7 +62,7 @@
 
         <div class="image-container">
             <img src="https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&q=80&w=400" alt="The Great Pyramids of Giza">
-            <img src="https://images.unsplash.com/photo-1563294380-60b54f9a0665?auto=format&fit=crop&q=80&w=400" alt="Egyptian Cat Statue">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bastet.JPG/357px-Bastet.JPG" alt="Egyptian Cat Goddess Bastet">
         </div>
 
         <section>
