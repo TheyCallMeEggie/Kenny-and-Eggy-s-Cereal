@@ -62,8 +62,8 @@
 
         <div class="image-container">
             <img src="https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?auto=format&fit=crop&q=80&w=400" alt="The Great Pyramids of Giza">
-            <img src="<img src="https://st2.depositphotos.com/1561359/8797/v/450/depositphotos_87976892-stock-illustration-elegant-cat-coloring-page.jpg" alt="Egypt style Vector Images | DepositPhotos"/><img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/0a83fcd6-4f1d-4f9f-9429-a4cb72dcd177"/>
-" alt="Egyptian Cat">
+            "<img src="https://st2.depositphotos.com/1561359/8797/v/450/depositphotos_87976892-stock-illustration-elegant-cat-coloring-page.jpg" alt="Egypt style Vector Images | DepositPhotos"/><img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/0a83fcd6-4f1d-4f9f-9429-a4cb72dcd177"/>
+
             />
 
         </div>
